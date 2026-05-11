@@ -1,0 +1,16 @@
+﻿  Hello World.cpp
+D:\source\repos\Hello World\Hello World.cpp(5,32): error C2440: 'initializing': cannot convert from 'const char [12]' to 'char *'
+      D:\source\repos\Hello World\Hello World.cpp(5,32):
+      Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  
+D:\source\repos\Hello World\Hello World.cpp(11,9): error C2065: 'cout': undeclared identifier
+D:\source\repos\Hello World\Hello World.cpp(55,12): error C2082: redefinition of formal parameter 'hyphen'
+D:\source\repos\Hello World\Hello World.cpp(59,5): error C2084: function 'int main(void)' already has a body
+      D:\source\repos\Hello World\Hello World.cpp(3,5):
+      see previous definition of 'main'
+  
+D:\source\repos\Hello World\Hello World.cpp(75,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\source\repos\Hello World\Hello World.cpp(85,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\source\repos\Hello World\Hello World.cpp(89,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\source\repos\Hello World\Hello World.cpp(118,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\source\repos\Hello World\Hello World.cpp(120,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
